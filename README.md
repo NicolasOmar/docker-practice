@@ -1,4 +1,4 @@
-# <img src="https://cdn.simpleicons.org/docker" title="Docker Practice Repo" alt="Docker Practice Repo" width="30"> Styling Practice
+# <img src="https://cdn.simpleicons.org/docker" title="Docker Practice Repo" alt="Docker Practice Repo" width="30"> Docker Practice
 Repository created to record my practice learning Docker with exercises based on the [Udemy Course](https://www.udemy.com/course/docker-mastery) of [Bret Fisher](https://www.udemy.com/user/bretfisher/).
 
 ## Table of contents
